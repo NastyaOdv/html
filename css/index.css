@@ -1,0 +1,15 @@
+H1 { 
+    font-size: 120%; 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: #333366; 
+   }
+
+   #container {
+    width: 300px;
+    height: 300px;
+  }
+  img {
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+  }
